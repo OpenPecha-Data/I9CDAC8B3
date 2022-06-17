@@ -1,0 +1,385 @@
+id: I9CDAC8B3
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:38:53.548902'
+last_modified: '2022-06-17T12:38:53.548912'
+parser: null
+source_metadata:
+  title: Long-Life Prayers
+  language: en
+  description: 'A selection of prayers for longevity (zhabs brtan), first more general
+    ones, then those for specific individuals (arranged alphabetically by subject):'
+  volume:
+    f784F:
+      title: 'Youthfulness Gained in Vajra-like Immortality: Verses of Truth for the
+        Long Life of the Perfect Masters'
+      base_file: f784F.txt
+      order: 1
+      parent: General
+    f5B00:
+      title: The Indestructible Vajra Garland, An Aspiration Prayer for the Lives
+        of the Supreme Holders of the Non-Sectarian Teachings
+      base_file: f5B00.txt
+      order: 2
+      parent: General
+    fEDC6:
+      title: General Long-Life Prayer
+      base_file: fEDC6.txt
+      order: 3
+      parent: General
+    f9A4E:
+      title: 'The Melodious Song of Immortality: A Prayer for Long Life'
+      base_file: f9A4E.txt
+      order: 4
+      parent: General
+    f7877:
+      title: Prayer for the Long Life of Alak Zenkar Rinpoche
+      base_file: f7877.txt
+      order: 5
+      parent: Alak Zenkar Rinpoche
+    f97B3:
+      title: Prayer for the Long Life of Alak Zenkar Rinpoche, the Incarnation of
+        Do Khyentsé Yeshé Dorjé
+      base_file: f97B3.txt
+      order: 6
+      parent: Alak Zenkar Rinpoche
+    f2812:
+      title: Prayer for the Long Life of Alak Zenkar Rinpoche, the Incarnation of
+        Do Khyentsé Yeshé Dorjé
+      base_file: f2812.txt
+      order: 7
+      parent: Alak Zenkar Rinpoche
+    f45EE:
+      title: Long Life Prayer for Alak Zenkar Rinpoche
+      base_file: f45EE.txt
+      order: 8
+      parent: Alak Zenkar Rinpoche
+    fBCAE:
+      title: Prayer for the Long Life of Chökyi Nyima Rinpoche
+      base_file: fBCAE.txt
+      order: 9
+      parent: Chökyi Nyima Rinpoche
+    f381B:
+      title: Prayer for the Long Life of Chökyi Nyima Rinpoche
+      base_file: f381B.txt
+      order: 10
+      parent: Chökyi Nyima Rinpoche
+    f0303:
+      title: 'The Great Treasure of a Hundred Blessings: A Prayer for the Long Life
+        of Ḍākinī Muntso Rinpoche'
+      base_file: f0303.txt
+      order: 11
+      parent: Ḍākinī Muntso Rinpoche
+    f949B:
+      title: Aspiration for the Long Life of Dezhung Rinpoche (Jampa Kunga Tenpé Nyima)
+      base_file: f949B.txt
+      order: 12
+      parent: Dezhung Rinpoche
+    f0A99:
+      title: Prayer for the Long Life of Dilgo Khyentsé II of Shechen, Urgyen Tenzin
+        Jigme Lhundrup
+      base_file: f0A99.txt
+      order: 13
+      parent: Dilgo Khyentse Yangsi Rinpoche
+    f936C:
+      title: Prayer for the Long Life of the Third Dodrupchen, Jigme Tenpai Nyima
+      base_file: f936C.txt
+      order: 14
+      parent: Dodrupchen Jigme Tenpe Nyima
+    f4F57:
+      title: Prayer for the Long Life Dodrupchen Rinpoche
+      base_file: f4F57.txt
+      order: 15
+      parent: Dodrupchen Rinpoche
+    fB8BB:
+      title: 'The Drumbeat of Immortality: A Prayer for the Long Life of the Great
+        Tertön Dudjom Jigdral Yeshe Dorje'
+      base_file: fB8BB.txt
+      order: 16
+      parent: Dudjom Rinpoche
+    fB7A6:
+      title: Prayer for the Long Life of Dzogchen Rinpoche
+      base_file: fB7A6.txt
+      order: 17
+      parent: Dzogchen Rinpoche
+    fD3D1:
+      title: Prayer for the Long Life of Dzogchen Rinpoche
+      base_file: fD3D1.txt
+      order: 18
+      parent: Dzogchen Rinpoche
+    f4574:
+      title: Prayer for the Long Life of Dzongsar Jamyang Khyentse Rinpoche
+      base_file: f4574.txt
+      order: 19
+      parent: Dzongsar Khyentse Rinpoche
+    f4ABE:
+      title: Prayer for the Long Life of Dzongsar Jamyang Khyentse Rinpoche
+      base_file: f4ABE.txt
+      order: 20
+      parent: Dzongsar Khyentse Rinpoche
+    fA11C:
+      title: 'True Words to Accomplish Immortality: A Longevity Prayer to the Tulku
+        of Jamyang Khyentse, Thupten Chökyi Gyatso'
+      base_file: fA11C.txt
+      order: 21
+      parent: Dzongsar Khyentse Rinpoche
+    f9B98:
+      title: A Supplication for the Longevity of the Peerless and Sublime Tulku, Dzongsar
+        Khyentse, Thupten Chökyi Gyatso
+      base_file: f9B98.txt
+      order: 22
+      parent: Dzongsar Khyentse Rinpoche
+    f7669:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      base_file: f7669.txt
+      order: 23
+      parent: Fourteenth Dalai Lama
+    f1055:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      base_file: f1055.txt
+      order: 24
+      parent: Fourteenth Dalai Lama
+    f6BF0:
+      title: 'The Magical Wish-Fulfilling Tree: A Prayer for the Long Life of His
+        Holiness the Dalai Lama'
+      base_file: f6BF0.txt
+      order: 25
+      parent: Fourteenth Dalai Lama
+    f2DD9:
+      title: 'The Melody of The Nectar of Immortality: A Prayer for the Long Life
+        of His Holiness the Fourteenth Dalai Lama, Supreme Victor and Omniscient One
+        by Jamyang Khyentse Chökyi Lodrö'
+      base_file: f2DD9.txt
+      order: 26
+      parent: Fourteenth Dalai Lama
+    f0D25:
+      title: 'The Music of Immortality: A Prayer for the Long Life of His Holiness
+        the Dalai Lama'
+      base_file: f0D25.txt
+      order: 27
+      parent: Fourteenth Dalai Lama
+    f4FF3:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      base_file: f4FF3.txt
+      order: 28
+      parent: Fourteenth Dalai Lama
+    f777D:
+      title: Prayer for the Long Life of His Holiness the Fourteenth Dalai Lama
+      base_file: f777D.txt
+      order: 29
+      parent: Fourteenth Dalai Lama
+    f9E56:
+      title: Prayer for the Long Life of His Holiness the Fourteenth Dalai Lama
+      base_file: f9E56.txt
+      order: 30
+      parent: Fourteenth Dalai Lama
+    f20BF:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö
+      base_file: f20BF.txt
+      order: 31
+      parent: Jamyang Khyentse Chökyi Lodrö
+    fCEF4:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö and Khandro
+        Tsering Chödrön
+      base_file: fCEF4.txt
+      order: 32
+      parent: Jamyang Khyentse Chökyi Lodrö
+    fBE6B:
+      title: 'Sweet Song of Enduring Deathlessness: A Prayer for the Long Life of
+        Jamyang Khyentse Chökyi Lodrö'
+      base_file: fBE6B.txt
+      order: 33
+      parent: Jamyang Khyentse Chökyi Lodrö
+    f336E:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö
+      base_file: f336E.txt
+      order: 34
+      parent: Jamyang Khyentse Chökyi Lodrö
+    f4486:
+      title: Long-Life Prayer Presented to the Incarnation of Shukseb Jetsünma
+      base_file: f4486.txt
+      order: 35
+      parent: Jetsün Lochen Incarnation
+    f5324:
+      title: Prayer for the Long Life of Khandro Tāre Lhamo
+      base_file: f5324.txt
+      order: 36
+      parent: Khandro Tāre Lhamo
+    fF894:
+      title: Prayer for the Long Life of Khandro Tsering Chödrön
+      base_file: fF894.txt
+      order: 37
+      parent: Khandro Tsering Chödrön
+    f84E0:
+      title: Prayer for the Long Life of Khyenrab Chökyi Özer
+      base_file: f84E0.txt
+      order: 38
+      parent: Khyenrab Chökyi Özer
+    f3342:
+      title: 'The Flower of Auspiciousness: A Prayer for the Long Life of Khenpo Khyenrab
+        Chökyi Özer, Masterful Expositor of Scripture and Reasoning'
+      base_file: f3342.txt
+      order: 39
+      parent: Khyenrab Chökyi Özer
+    f3328:
+      title: 'The Sweet Melody to Accomplish Words of Truth: A Prayer for the Long
+        Life of the Dharma-Expounding Guide Khenchen Khyenrab Chökyi Özer'
+      base_file: f3328.txt
+      order: 40
+      parent: Khyenrab Chökyi Özer
+    f2B0F:
+      title: Prayer for the Long Life of Lochen Ngawang Chöpal
+      base_file: f2B0F.txt
+      order: 41
+      parent: Lochen Dharmaśrī
+    fA456:
+      title: Long Life Prayer for Lodi Gyari Rinpoche
+      base_file: fA456.txt
+      order: 42
+      parent: Lodi Gyari Rinpoche
+    f61A8:
+      title: Long Life Prayer for Mayum Tsering Wangmo
+      base_file: f61A8.txt
+      order: 43
+      parent: Mayum Tsering Wangmo
+    f2AE9:
+      title: 'The Drum of Deathlessness: A Prayer for the Long Life of Minling Chung
+        Rinpoche'
+      base_file: f2AE9.txt
+      order: 44
+      parent: Minling Chung Rinpoche
+    fD8ED:
+      title: Prayer for the Long Life of Namkhai Norbu Rinpoche
+      base_file: fD8ED.txt
+      order: 45
+      parent: Namkhai Norbu Rinpoche
+    fC5BC:
+      title: 'The Vajra Sitar of Immortality: A Prayer for the Long Life of the Fourth
+        Incarnation of Terchen Chokgyur Lingpa'
+      base_file: fC5BC.txt
+      order: 46
+      parent: Neten Chokling Rinpoche
+    f29F9:
+      title: Prayer for the Long Life of Orgyen Tobgyal Rinpoche
+      base_file: f29F9.txt
+      order: 47
+      parent: Orgyen Tobgyal Rinpoche
+    f4A94:
+      title: Long Life Prayer for Patrick Gaffney (Yeshé Wangyal)
+      base_file: f4A94.txt
+      order: 48
+      parent: Patrick Gaffney
+    f3AAE:
+      title: Prayer for the Long Life of Pema Norbu, Lord of Siddhas
+      base_file: f3AAE.txt
+      order: 49
+      parent: Penor Rinpoche
+    f00C7:
+      title: Prayer for the Long Life of Pewar Rinpoche
+      base_file: f00C7.txt
+      order: 50
+      parent: Pewar Rinpoche
+    fCDDC:
+      title: Prayer for the Long Life of the Glorious Sakyapa Father and Son
+      base_file: fCDDC.txt
+      order: 51
+      parent: Sakya Dagchen and Son
+    f8886:
+      title: A Prayer for the Long Life of Ngawang Kunga Tekchen Palbar Trinlé Wangi
+        Gyalpo, the Lord of Refuge and Precious Holder of the Throne of the Drolma
+        Palace at Glorious Sakya
+      base_file: f8886.txt
+      order: 52
+      parent: Sakya Trichen
+    f4B48:
+      title: Prayer for the Long Life of Kyabgön Sakya Trichen
+      base_file: f4B48.txt
+      order: 53
+      parent: Sakya Trichen
+    f0C9B:
+      title: Prayer for the Long Life of Shechen Rabjam Rinpoche
+      base_file: f0C9B.txt
+      order: 54
+      parent: Shechen Rabjam Rinpoche
+    fF045:
+      title: Prayer for the Long Life of the Sixteenth Karmapa
+      base_file: fF045.txt
+      order: 55
+      parent: Sixteenth Karmapa
+    f63F4:
+      title: The Excellent Stream of Nectar of Immortality
+      base_file: f63F4.txt
+      order: 56
+      parent: Sogyal Rinpoche
+    f5F7B:
+      title: Gentle Rain of the Nectar of Immortality
+      base_file: f5F7B.txt
+      order: 57
+      parent: Sogyal Rinpoche
+    f738A:
+      title: Prayer for the Long Life of Sogyal Rinpoche—chimé kunnyé
+      base_file: f738A.txt
+      order: 58
+      parent: Sogyal Rinpoche
+    f36A2:
+      title: Prayer for the Long Life of Sogyal Rinpoche—sönam jewé
+      base_file: f36A2.txt
+      order: 59
+      parent: Sogyal Rinpoche
+    f4F00:
+      title: The Attainment of Immortality
+      base_file: f4F00.txt
+      order: 60
+      parent: Sogyal Rinpoche
+    f57FF:
+      title: Prayer for the Long Life of Soktsé Rinpoche
+      base_file: f57FF.txt
+      order: 61
+      parent: Soktsé Rinpoche
+    f8444:
+      title: 'Padma’s Melodious Song: A Prayer for the Long Life of the Fourth in
+        the Succession of Lotus-Tongued Jamchen Tai Situ Incarnations'
+      base_file: f8444.txt
+      order: 62
+      parent: Tai Situ Rinpoche
+    fF9FA:
+      title: Prayer for the Long Life of Taklung Tsetrul Rinpoche
+      base_file: fF9FA.txt
+      order: 63
+      parent: Taklung Tsetrul Rinpoche
+    f0F77:
+      title: 'The Sound of the Auspicious Conch: A Prayer for the Long Life of the
+        All-Knowing Paṇchen Rinpoche of Tsang'
+      base_file: f0F77.txt
+      order: 64
+      parent: Tenth Paṇchen Lama
+    fA598:
+      title: 'The Sweet Song of Māra''s Defeat: A Prayer for the Long Life of the
+        Great Tertön and Vidyādhara Lerab Lingpa'
+      base_file: fA598.txt
+      order: 65
+      parent: Tertön Sogyal Lerab Lingpa
+    f3469:
+      title: 'Granting the Wish for Immortality: A Prayer for the Long Life of Dzarong
+        Trulshik Rinpoche, the Representative of Guru Rinpoche'
+      base_file: f3469.txt
+      order: 66
+      parent: Trulshik Rinpoche
+    f7800:
+      title: Long Life Prayer for Kyabje Dzarong Trulshik Rinpoche
+      base_file: f7800.txt
+      order: 67
+      parent: Trulshik Rinpoche
+    fE290:
+      title: Prayer for the Long Life of Tulku Thondup Rinpoche
+      base_file: fE290.txt
+      order: 68
+      parent: Tulku Thondup Rinpoche
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
